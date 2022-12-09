@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DarkFirePhoenixX.
+- 🌱 I’m currently studying for a Master’s on Mobile and Web Technologies at University of Economics, Varna.
+- 🌱 I have a Bachelor's degree in Computer Science and Informatics.
+- 👀 I’m interested in Penetration Testing, Web Security, C#, Bash Scripting and I am a big big Linux fan.
+- 📫 How to reach me - if you have an interest in any of the above and would like a collaboration you can write me at s.slavkov20@gmail.com.
