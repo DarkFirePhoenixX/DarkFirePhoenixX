@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DarkFirePhoenixX.
+- 👋 Hi, my name is Stanislav.
 - 🌱 I’m currently studying for a Master’s on Mobile and Web Technologies at University of Economics, Varna.
 - 🌱 I have a Bachelor's degree in Computer Science and Informatics.
 - 👀 I’m interested in Penetration Testing, Web Security, C#, Bash Scripting and I am a big big Linux fan.
