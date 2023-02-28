@@ -6,7 +6,7 @@
 <h4>⭐️ I have a Bachelor's degree in Computer Science and Informatics.</h4>
 <h4>👀 I’m interested in Penetration Testing, Web Security, C#, Web Design, Bash Scripting and I am a big big Linux fan.</h4>
 <h4>🌄 My hobbies are photography, guitar & piano playing, cooking and reading.</h4>
-<h4>📫 How to reach me - if you have an interest in any of the above & would like a collaboration you can write me at <a href="mailto:s.slavkov20@gmail.com" style="text-decoration: none;">s.slavkov20@gmail.com</a>.</h4>
+<h4>📫 If you have an interest in any of the above & would like a collaboration you can write me at <a href="mailto:s.slavkov20@gmail.com" style="text-decoration: none;">s.slavkov20@gmail.com</a>.</h4>
 <hr>
 <h3 align="center">🚀 Languages and Tools:</h3>
 <hr>
