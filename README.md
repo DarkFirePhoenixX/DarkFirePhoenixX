@@ -39,7 +39,6 @@
 <h3 align="center">📊 My Github Stats</h3>
 <hr>
 <p align="center">
-  <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=darkfirephoenixx&show_icons=true&include_all_commits=true&theme=dark" />
-  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkfirephoenixx&include_all_commits=true&theme=dark" />
-  <img width="55%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=darkfirephoenixx&layout=compact&theme=dark" />
+  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkfirephoenixx&include_all_commits=true&theme=tokyonight" />
+  <img width="55%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=darkfirephoenixx&layout=compact&theme=tokyonight" />
 </p>
