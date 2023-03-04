@@ -36,6 +36,7 @@
     <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="39" height="39" /> </a>
     <a href="https://en.wikipedia.org/wiki/Adobe_Illustrator" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="39" height="39" /> </a>
     <a href="https://www.reaper.fm/" target="_blank"> <img src="https://dl2.macupdate.com/images/icons256/34655.png?d=1522096826" alt="reaper" width="39" height="39" /> </a>
+        <a href="https://www.steinberg.net/cubase/" target="_blank"><img width="39px" src="https://cdn2.iconfinder.com/data/icons/flurry-for-audio/256/cubase_256x256x32.png" /></a>
     <a href="https://www.adobe.com/products/audition.html" target="_blank"><img width="39px" src="https://ia803104.us.archive.org/30/items/podcast_adobe-audition-podcast_1390669931/podcast_adobe-audition-podcast_1390669931_itemimage.png" /></a>
     <a href="https://code.visualstudio.com/" target="_blank"><img width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
                       <a href="https://visualstudio.microsoft.com/" target="_blank"><img width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></a>
