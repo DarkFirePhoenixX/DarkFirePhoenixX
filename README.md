@@ -2,7 +2,7 @@
 <hr>
 <h3 align="center">🙋‍♂️ About Me</h3><img src="https://readme-typing-svg.demolab.com?font=Tilt+Warp&duration=4000&pause=1000&color=8100F7&center=true&width=1080&height=30&lines=Adaptive+Web+Design;C%23+Development;White+Hat+Enthusiast;Big+Linux+Fan;Photoshop+%26+After+Effects" alt="Typing SVG" />   
 <hr>
-<h4>🖥️ If you want a quick tour of me and my work checkout my: <a href="https://darkfirephoenixx.github.io/Portfolio" target="_blank">main website</a>.</h4>
+<h4>🖥️ If you want a quick tour of me and my work be sure to check out my: <a href="https://darkfirephoenixx.github.io/Portfolio" target="_blank">main website</a>.</h4>
 <h4>🌱 I’m currently studying for a Master’s on Mobile and Web Technologies at University of Economics, Varna.</h4>
 <h4>⭐️ I have a Bachelor's degree in Computer Science and Informatics.</h4>
 <h4>👀 I’m interested in Pen Testing, Networking, OSINT, Web Security, C#, Web Design, Bash Scripting and I am a huge Linux fan.</h4>
