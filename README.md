@@ -31,7 +31,7 @@
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="39" height="39" /> </a>
     <a href="https://developer.android.com/studio" target="_blank"><img width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /></a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="39" height="39" /> </a>
-    <a href="https://www.kali.org/" target="_blank"> <img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" alt="kali" width="39" height="39" /> </a>
+    <a href="https://www.kali.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali" width="39" height="39" /> </a>
     <a href="https://portswigger.net/burp" target="_blank"> <img src="https://img.informer.com/icons_mac/png/128/404/404676.png" alt="burpsuite" width="39" height="39" /> </a> 
     <a href="https://en.wikipedia.org/wiki/Adobe_After_Effects" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="aftereffects" width="39" height="39" /> </a>
     <a href="https://en.wikipedia.org/wiki/Adobe_Premiere_Pro" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="39" height="39" /> </a>
