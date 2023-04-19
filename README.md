@@ -11,7 +11,7 @@
 <h4>👨‍👦‍👦 Social skills: adaptability, communication, loyalty, correctness, teamwork and expeditivity.</h4>
 <h4>📫 If you have an interest in any of the above & would like a collaboration you can write me at <a href="mailto:s.slavkov20@gmail.com" style="text-decoration: none;">s.slavkov20@gmail.com</a>.</h4>
 <hr>
-<h3 align="center">🚀 Languages and Tools:</h3>
+<h3 align="center">🛠️ Languages and Tools:</h3>
 <hr>
 <p align="center">
         <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="39" height="39" /> </a>
