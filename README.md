@@ -56,5 +56,6 @@
 <hr>
 <p align="center">
   <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkfirephoenixx&include_all_commits=true&theme=tokyonight" />
+  <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=darkfirephoenixx&theme=blue-green&show_icons=true&theme=tokyonight" />
   <img width="55%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=darkfirephoenixx&layout=compact&theme=tokyonight" />
 </p>
