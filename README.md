@@ -2,14 +2,14 @@
 <hr>
 <h3 align="center">🙋‍♂️ About Me</h3><img src="https://readme-typing-svg.demolab.com?font=Tilt+Warp&duration=4000&pause=1000&color=8100F7&center=true&width=1080&height=30&lines=Adaptive+Web+Design;C%23+Development;White+Hat+Enthusiast;Big+Linux+Fan;Photoshop+%26+After+Effects" alt="Typing SVG" />   
 <hr>
-<h4>🖥️ If you want a quick tour of me and my work make sure to check out my <a href="https://darkfirephoenixx.github.io/Portfolio" target="_blank">main website</a>.</h4>
+<h4>🖥️ If you want a quick tour of me and my work, make sure to check out my <a href="https://darkfirephoenixx.github.io/Portfolio" target="_blank">main website</a>.</h4>
 <h4>🌱 I’m currently studying for a Master’s on Mobile and Web Technologies at University of Economics, Varna.</h4>
 <h4>⭐️ I have a Bachelor's degree in Computer Science and Informatics.</h4>
-<h4>👀 I’m interested in Pen Testing, Networking, OSINT, Web Security, C#, Web Design, Bash Scripting and I am a huge Linux fan.</h4>
-<h4>🔤 My native language is Bulgarian 🇧🇬 but I can also speak in English 🇬🇧(C2) and   German 🇩🇪(B1).</h4>
+<h4>👀 I’m interested in Pen Testing, Networking, OSINT, Web Security, C#, Web Design, Bash Scripting and, I am a huge Linux fan.</h4>
+<h4>🔤 My native language is Bulgarian 🇧🇬, but I can also speak in English 🇬🇧(C2) and   German 🇩🇪(B1).</h4>
 <h4>🌄 My hobbies are photography, guitar & piano playing, cooking and reading.</h4>
 <h4>👨‍👦‍👦 Social skills: adaptability, communication, loyalty, correctness, teamwork and expeditivity.</h4>
-<h4>📫 If you have an interest in any of the above & would like a collaboration you can write me at <a href="mailto:s.slavkov20@gmail.com" style="text-decoration: none;">s.slavkov20@gmail.com</a>.</h4>
+<h4>📫 If you have an interest in any of the above & would like a collaboration, you can write me at <a href="mailto:s.slavkov20@gmail.com" style="text-decoration: none;">s.slavkov20@gmail.com</a>.</h4>
 <hr>
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <hr>
