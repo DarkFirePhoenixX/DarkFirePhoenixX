@@ -16,7 +16,6 @@
 <hr>
 <p align="center">
         <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="39" height="39" /> </a>
-        <a href="https://kotlinlang.org/" target="_blank"><img width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /></a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="39" height="39" /> </a>
     <a href="https://en.wikipedia.org/wiki/.NET_Core" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="39" height="39" /> </a>
     <a href="https://www.mysql.com/" target="_blank"><img width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
@@ -32,7 +31,6 @@
     <a href="https://aws.amazon.com/" target="_blank"><img width="39px" src="https://p.kindpng.com/picc/s/246-2468000_aws-icono-hd-png-download.png" /></a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="39" height="39" /> </a>
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="39" height="39" /> </a>
-    <a href="https://developer.android.com/studio" target="_blank"><img width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /></a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="39" height="39" /> </a>
     <a href="https://www.kali.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali" width="39" height="39" /> </a>
     <a href="https://portswigger.net/burp" target="_blank"> <img src="https://img.informer.com/icons_mac/png/128/404/404676.png" alt="burpsuite" width="39" height="39" /> </a> 
