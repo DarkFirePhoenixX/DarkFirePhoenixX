@@ -50,6 +50,8 @@
                       <a href="https://www.blender.org/" target="_blank"><img width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" /></a>
     <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"> <img src="https://camo.githubusercontent.com/df1404f038a8252dec0847c94dcd4f0be9c4491a2682bc601d276f835e8eaa5d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626173682f626173682d6f726967696e616c2e737667" alt="bash" width="39" height="39" /> </a>
     <a href="https://learn.microsoft.com/en-us/windows/win32/lwef/using-vbscript" target="_blank"> <img src="https://devstart.pl/uploads/monthly_2015_09/logo-vbscript.png.fcad28e12c233fb00040d2e2f3f2cefb.png" alt="vbscript" width="39" height="39" /> </a>
+        <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png?20151222103910" alt="pwshell" width="39" height="39" /> </a>
+        <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/7/7c/Batch_file_icon.png" alt="batch" width="39" height="39" /> </a>
 </p>
 <hr>
 <h3 align="center">📊 My Github Stats</h3>
