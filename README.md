@@ -48,6 +48,10 @@
     <a href="https://www.virtualbox.org/" target="_blank"> <img src="https://dradisframework.com/images/integrations/deployment/virtualbox.png" alt="oraclevm" width="39" height="39" /> </a>
     <a href="https://unity.com/" target="_blank"><img width="39px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="illustrator" /></a>
                       <a href="https://www.blender.org/" target="_blank"><img width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" /></a>
+        <a href="https://filezilla-project.org/" target="_blank"><img width="39px" src="https://cdn2.iconfinder.com/data/icons/pack2-baco-flurry-icons-style/512/Filezilla2.png" /></a>
+        <a href="https://cpanel.net/" target="_blank"><img width="39px" src="https://www.creativefreedom.co.uk/wp-content/uploads/2017/01/cpanel-logo.png" /></a>
+                      <a href="https://www.opencart.com/" target="_blank"><img width="39px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/opencart-cms-ecommerce-shop-sale-store-page-512.png" /></a>
+                      <a href="https://wordpress.com/" target="_blank"><img width=39px" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" /></a>
     <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"> <img src="https://camo.githubusercontent.com/df1404f038a8252dec0847c94dcd4f0be9c4491a2682bc601d276f835e8eaa5d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626173682f626173682d6f726967696e616c2e737667" alt="bash" width="39" height="39" /> </a>
     <a href="https://learn.microsoft.com/en-us/windows/win32/lwef/using-vbscript" target="_blank"> <img src="https://devstart.pl/uploads/monthly_2015_09/logo-vbscript.png.fcad28e12c233fb00040d2e2f3f2cefb.png" alt="vbscript" width="39" height="39" /> </a>
         <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png?20151222103910" alt="pwshell" width="39" height="39" /> </a>
