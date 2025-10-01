@@ -21,7 +21,7 @@
     <a href="https://en.wikipedia.org/wiki/.NET_Core" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="39" height="39" /> </a>
     <a href="https://www.mysql.com/" target="_blank"><img width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
                       <a href="https://www.postgresql.org/" target="_blank"><img width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
-                      <a href="https://www.phpmyadmin.net/" target="_blank"><img width="39px" src="https://static.javatpoint.com/phppages/images/phpmyadmin-logo.png" /></a>
+                      <a href="https://www.phpmyadmin.net/" target="_blank"><img width="39px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" /></a>
         <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="html5" width="39" height="39" /> </a>
         <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2022" target="_blank"><img width="39px" src="https://www.ruleranalytics.com/wp-content/uploads/2018/07/sql-server.png" /></a>
         <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="39" height="39" /> </a>
@@ -42,7 +42,7 @@
     <a href="https://www.reaper.fm/" target="_blank"> <img src="https://dl2.macupdate.com/images/icons256/34655.png?d=1522096826" alt="reaper" width="39" height="39" /> </a>
         <a href="https://www.image-line.com/" target="_blank"><img width="39" heigth="39" alt="fl-studio" src="https://www.image-line.com/innovaeditor/assets/FLStudio20_MasterIcon.png" /></a>
         <a href="https://www.steinberg.net/cubase/" target="_blank"><img width="39px" src="https://cdn2.iconfinder.com/data/icons/flurry-for-audio/256/cubase_256x256x32.png" /></a>
-    <a href="https://www.adobe.com/products/audition.html" target="_blank"><img width="39px" src="https://ia803104.us.archive.org/30/items/podcast_adobe-audition-podcast_1390669931/podcast_adobe-audition-podcast_1390669931_itemimage.png" /></a>
+    <a href="https://www.adobe.com/products/audition.html" target="_blank"><img width="39px" src="https://images.sftcdn.net/images/t_app-icon-m/p/73ad6e98-96d1-11e6-b319-00163ec9f5fa/1117699305/adobe-audition-download.png" /></a>
     <a href="https://code.visualstudio.com/" target="_blank"><img width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
                       <a href="https://visualstudio.microsoft.com/" target="_blank"><img width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></a>
                       <a href="https://www.sublimetext.com/" target="_blank"><img width="39px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" /></a>
