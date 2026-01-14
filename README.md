@@ -3,7 +3,7 @@
 <h3 align="center">🙋‍♂️ About Me</h3><img src="https://readme-typing-svg.demolab.com?font=Tilt+Warp&duration=4000&pause=1000&color=8100F7&center=true&width=1080&height=30&lines=Adaptive+Web+Design;C%23+Development;White+Hat+Enthusiast;Big+Linux+Fan;Photoshop+%26+After+Effects" alt="Typing SVG" />   
 <hr>
 <h4>🗂️ If you want a quick tour of me and my work, make sure to check out my <a href="https://darkfirephoenixx.github.io/Portfolio" target="_blank">main website</a>.</h4>
-<h4>📃 You can also check out my resume <a href="https://drive.google.com/file/d/1h6JfihV4WsTlBKY_VCSwPaGlUomUiZ_j/view?usp=drivesdk" target="_blank">here</a>.</h4>
+<h4>📃 You can also check out my resume <a href="https://darkfirephoenixx.github.io/VM-CV-Project" target="_blank">here</a>.</h4>
 <h4>🖥️ I’m currently working in DXC as Backup and Storage Multitech Engineer and Automation Agent.</h4>
 <h4>💼 I have previously worked as an honorary assistant at University of Economics Varna, teaching UNIX and Windows operating systems.</h4>
 <h4>⭐️ I have a Bachelor's degree in Computer Science & Informatics and a Master’s degree in Mobile & Web Technologies.</h4>
